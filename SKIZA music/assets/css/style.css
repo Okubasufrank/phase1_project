@@ -5,7 +5,45 @@
 }
 
 body{
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.973);
 }
 
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 7%;
+    background-color: #000;
+    color: aliceblue;
+}
 
+.list{
+    list-style: none;
+    display: flex;
+    /* padding: 10px; */
+    /* margin: 10px; */
+}
+
+.list li{
+    /* padding: 10px; */
+    margin: 10px;
+    text-decoration: none;
+}
+
+.B{
+    text-decoration: none;
+}
+
+.music{
+    width: 90%;
+    /* padding: 30px; */
+    margin-top: 20px;
+    margin-left: 70px;
+    height: 450px;
+    background-color: aliceblue;
+}
+ .enter{
+     width: 30%;
+     background-color: rgb(114, 83, 83);
+     height: 100%;
+ }
