@@ -34,10 +34,20 @@ body{
     /* margin: 10px; */
 }
 
+.B button{
+    border: none;
+    width: 90PX;
+    height: 30PX;
+    background-color: rgb(0, 255, 255);
+    border-radius: 5PX;
+    color: #000;
+}
+
 .list li{
     /* padding: 10px; */
     margin: 10px;
     text-decoration: none;
+    color: rgb(255, 94, 0);
 }
 
 .B{
@@ -65,11 +75,20 @@ body{
      overflow-x: auto;
      text-wrap: none;
  }
+ .bnt button{
+     width: 70px;
+     border: none;
+     border-radius: 5px;
+     height: 30px;
+     background-color: cyan;
+ }
  .pic{
      width: 70%;
+     position: relative;
      height: 100%;
      background-color: aqua;
  }
+
 
  .pic img{
      width: 100%;
@@ -87,7 +106,7 @@ body{
 
  .category{
      /* padding-top: 30px; */
-     background-color: rgb(10, 10, 9);
+     background-color: rgb(0, 0, 0);
      height: 450px;
      width: 90%;
      /* display: flex; */
@@ -106,7 +125,7 @@ body{
 
  .one{
      width: 20%;
-     background-color: rgb(51, 45, 45);
+     background-color: rgb(0, 0, 0);
      height: auto;
      margin-right: 5px;
      display: flex;
@@ -129,7 +148,7 @@ body{
 
  .two{
     width: 20%;
-    background-color: rgb(51, 45, 45);
+    background-color: rgb(0, 0, 0);
     height: auto;
     margin-right: 5px;
     display: flex;
@@ -168,13 +187,20 @@ body{
     transition: 0.25s;
 }
 
+.overlay > *{
+    transform: translateY(20px);
+    transition: transform 0.25s;
+}
 .overlay:hover{
     opacity: 1;
 }
+.overlay:hover > *{
+    transform: translateY(0) ;
+}
 .header button{
     background-color: transparent;
-    border: 1px solid, rgb(211, 7, 7);
-    border-radius: 10px;
+    border: none;
+    /* border-radius: 10px; */
     width: 200px;
     height: 60px;
     color: aqua;
