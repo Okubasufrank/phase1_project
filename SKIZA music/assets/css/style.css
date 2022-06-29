@@ -359,3 +359,11 @@ body{
 .country{
     margin-left: 60px;
 }
+
+.mint{
+    display: flex;
+}
+
+.br1{
+    margin-right: 80px;
+}
