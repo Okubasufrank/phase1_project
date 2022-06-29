@@ -335,3 +335,27 @@ body{
     margin-top: 60px;
     color: black;
 }
+
+.pract{
+    margin-top: 80px;
+    margin-left: 70px;
+    color: bisque;
+    width: 70%;
+    height: 400px;
+}
+
+.name2{
+    margin-left: 60px;
+}
+
+.name{
+    display: flex;
+    /* margin: 30px; */
+}
+
+.phc{
+    display: flex;
+}
+.country{
+    margin-left: 60px;
+}
