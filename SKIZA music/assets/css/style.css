@@ -367,3 +367,6 @@ body{
 .br1{
     margin-right: 80px;
 }
+.genre{
+    display: flex;
+}
