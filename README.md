@@ -26,13 +26,13 @@ This section gives the insights and registration on the music to the users.
  * Access to internet
  ### Installation Process
  ****
-* Clone to this repo : git clone git@github.com:borebrian2021/Moringa-Quick-Movers-Website.git
+* Clone to this repo : git clone git@github.com:Okubasufrank/phase1_project.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
  [Go Back to the top](#Screenshot)
 ### Live Link
-- Click this link to view the live application https://borebrian2021.github.io/Naturing-Africas-Tech-Talent/#Courses
+- Click this link to view the live application https://okubasufrank.github.io/phase1_project/
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
