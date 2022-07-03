@@ -1,7 +1,7 @@
 # Skiza music
 ## By Okubasu Frankline Aswani
 ## Screenshot
- ![image](./assets/css/images/ui.png)
+ ![image](./assets/css/images/read.png)
  ## Table of Content
  - [Description](#description)
  - [Skiza music](#Skiza-music)
