@@ -33,7 +33,7 @@ This section gives the insights and registration on the music to the users.
  ****
  [Go Back to the top](#Screenshot)
 ### Live Link
-- Click this link to view the live application https://borebrian2021.github.io/Naturing-Africas-Tech-Talent/#Courses
+- Click this link to view the live application
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
