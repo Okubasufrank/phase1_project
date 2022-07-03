@@ -217,13 +217,16 @@ img{
     position: absolute;
     z-index: 1;
     left: 0;
+    height: 20px;
     bottom: 0;
     width: 100%;
 }
 
-/* .audio audio source{
-    color: red;
-} */
+.audio source
+{
+    background: transparent;
+    border: none;
+}
 
  .down{
     display: flex;
@@ -240,6 +243,7 @@ img{
     height: auto;
     margin-right: 5px;
     display: flex;
+    position: relative;
 }
 
 .two img{
@@ -319,8 +323,11 @@ img{
     width: 70px;
     height: 30px;
     border-radius: 20px;
-    background-color: rgb(41, 152, 226);
+    background-color: rgb(255, 255, 255);
     border: none;
+}
+.btn button:hover{
+    background-color: aqua;
 }
 
 .base{
