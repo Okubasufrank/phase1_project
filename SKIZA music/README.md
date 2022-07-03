@@ -1,7 +1,7 @@
 # Skiza music
- ## By Okubasu Frankline Aswani
+## By Okubasu Frankline Aswani
 ## Screenshot
- ![image](./assets/images/screenshot.png)
+ ![image](./assets/css/images/ui.png)
  ## Table of Content
  - [Description](#description)
  - [Skiza music](#Skiza-music)
@@ -12,7 +12,9 @@
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>This is the Skiza music Company's website. The company, specializes in providing quality music to the people, it allows them to stream live and also can subscribe to the platform.</p>
+ <p>This is the Skiza music Company's website. The company, specializes in providing quality music to the people, it allows them to stream live
+ and also can subscribe to the platform.</p>
+
 ## Skiza music
 This section tells more about the best music streaming platform in town.
 [Go Back to the top](#Screenshot)
@@ -55,5 +57,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#Screenshot)
 ## Authors Info
-Linkedin - [Okubasu Frankline Aswanni](link)
+Linkedin - [Okubasu Frankline Aswanni](https://www.linkedin.com/in/okubasu-frankline-0051761a0)
 <!-- [Go Back to the top](#delani-studio) -->
